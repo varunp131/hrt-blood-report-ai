@@ -50,8 +50,6 @@ GROQ_API_KEY=gsk_your_groq_key_here
 DATABASE_PATH=./data/hrt_clinic.db
 ```
 
-Get your Anthropic API key from: https://console.anthropic.com/
-
 ### 3. Run Development Server
 
 ```bash
